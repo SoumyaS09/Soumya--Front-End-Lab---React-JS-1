@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "payeeName": "Vikrant",
+      "product": "Bike Repair",
+      "price": 1000,
+      "setDate": "2024-01-07",
+      "id": "1"
+    },
+    {
+      "payeeName": "Vikrant",
+      "product": "Movie",
+      "price": 1200,
+      "setDate": "2024-01-08",
+      "id": "2"
+    },
+    {
+      "payeeName": "Girish",
+      "product": "Vegetables",
+      "price": 485,
+      "setDate": "2024-01-30",
+      "id": "3"
+    },
+    {
+      "payeeName": "Vikrant",
+      "product": "Water",
+      "price": 50,
+      "setDate": "2024-01-02",
+      "id": "4"
+    },
+    {
+      "payeeName": "Vikrant",
+      "product": "Fruits",
+      "price": 200,
+      "setDate": "2024-01-18",
+      "id": "5"
+    },
+    {
+      "payeeName": "Girish",
+      "product": "Rice Bag",
+      "price": 2000,
+      "setDate": "2024-01-22",
+      "id": "6"
+    },
+    {
+      "payeeName": "Girish",
+      "product": "Internet Bills",
+      "price": 1200,
+      "setDate": "2024-01-31",
+      "id": "7"
+    },
+    {
+      "payeeName": "Vikrant",
+      "product": "Electricity Bill",
+      "price": 724,
+      "setDate": "2024-01-02",
+      "id": "8"
+    },
+    {
+      "payeeName": "Vikrant",
+      "product": "Milk",
+      "price": 140,
+      "setDate": "2024-01-11",
+      "id": "9"
+    },
+    {
+      "payeeName": "Vikrant",
+      "product": "Thali",
+      "price": 280,
+      "setDate": "2024-01-25",
+      "id": "10"
+    },
+    {
+      "payeeName": "Vikrant",
+      "product": "Plumbing work",
+      "price": 250,
+      "setDate": "2024-01-14",
+      "id": "11"
+    },
+    {
+      "payeeName": "Vikrant",
+      "product": "Tubelight",
+      "price": 149,
+      "setDate": "2024-01-27",
+      "id": "12"
+    },
+    {
+      "payeeName": "Girish",
+      "product": "LPG",
+      "price": 1000,
+      "setDate": "2024-01-19",
+      "id": "13"
+    },
+    {
+      "id": "86bf",
+      "payeeName": "Girish",
+      "product": "Oyster Mushroom",
+      "price": 102,
+      "setDate": "2024-01-29"
+    }
+  ]
+}
